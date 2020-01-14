@@ -61,7 +61,7 @@ _|_| _|    _|       _|
                        
 ```
 ###### Does it display the string in the right template as an ASCII art representation as above?
-##### Try passing as arguments `/(\") thinkertoy`
+##### Try passing as arguments "/(\")" thinkertoy`
 ```
          o o    
     o  / | | \  
@@ -85,7 +85,7 @@ _|    _| _|_|_|     _|_|_| _|_|_|   _|_|_|_| _|         _|_|_| _|    _| _|_|_|  
                                                                                                                                                                                                                                                                
 ```
 ###### Does it display the string in the right template as an ASCII art representation as above?
-##### Try passing as arguments `\"#$%&/()*+,-./ thinkertoy`
+##### Try passing as arguments "\"#$%&/()*+,-./" thinkertoy`
 ```
 o o         | |                                                  
 | |  | |   -O-O-      O          o  / \  o | o                 o 
